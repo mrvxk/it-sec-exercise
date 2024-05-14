@@ -1,9 +1,13 @@
-## IT Security Exercises
-The code in this repository is a collection of exercises for the IT Security course at the HFT Stuttgart.
+# IT Security Exercises
 
-### Requirements for java
-- Java 11 or higher
-- Apache Maven 3.8.6
+This repository contains a collection of exercises for the IT Security course at HFT Stuttgart.
 
-### Content
-- [03-Cryptographic Solutions - AES in Java](/src/main/java/de/hft/AESTask.java)
+## Requirements for Java
+
+- **Java Version:** 11 or higher
+- **Apache Maven Version:** 3.8.6 or higher
+
+## Content
+
+- [02 - Network Security - Diffie-Hellman Key Exchange in Java](src/main/java/de/hft/DHKETask.java)
+- [03 - Cryptographic Solutions - AES in Java](src/main/java/de/hft/AESTask.java)
